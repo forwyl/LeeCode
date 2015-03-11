@@ -17,6 +17,7 @@ public class SearchInsertPosition35 {
 	
 	}
 	public static void main(String[] args) {
+		
 		SearchInsertPosition35 sip = new SearchInsertPosition35();
 		int[] A = {1,3,5,6};
 		System.out.println("position should be:"+ sip.searchInsert(A, 5)+ " (expect:2)");
